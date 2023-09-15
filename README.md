@@ -2,7 +2,7 @@
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning python at school and 
 - 💞️ I’m looking to collaborate on somme projecte
-- 📫 How to reach me whit matvanrijsel@gmail.com or matvanrijsel on discord
+- 📫 How to reach me with matvanrijsel@gmail.com or matvanrijsel on discord
 
 <!---
 anonymecrasher/anonymecrasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
