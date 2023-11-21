@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anonymecrasher
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning python at school and 
-- 💞️ I’m looking to collaborate on somme projecte
+- 💞️ I’m looking to collaborate on somme projects
 - 📫 How to reach me with matvanrijsel@gmail.com or matvanrijsel on discord
 
 <!---
