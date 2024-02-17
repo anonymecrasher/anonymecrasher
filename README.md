@@ -5,15 +5,19 @@
 - 🌱 I’m currently learning python at school and a little little bit of C
 - 💞️ I’m looking to collaborate on somme projects
 
-## contact me 
+## How to reach me 
 - [<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:matvanrijsel@gmail.com)
 - [<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />](https://discordapp.com/users/555799427176988672) 
 
-## github statistics
+## Github statistics
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=anonymecrasher&show_icons=true&theme=dark)
 
-## most used tools and programming langage
+## Most used tools and programming langage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymecrasher&layout=compact&theme=dark)](https://github.com/anonymecrasher)
+
+## My main project
+
+
 
 
 
