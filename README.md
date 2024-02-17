@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on somme projects
 
 ## contact me 
--[<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:matvanrijsel@gmail.com) matvanrijsel@gmail.com
+-[<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:matvanrijsel@gmail.com)
 -[<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />](https://discordapp.com/users/555799427176988672) 
 
 ## github statistics
