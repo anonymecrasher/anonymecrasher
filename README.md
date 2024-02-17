@@ -16,10 +16,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymecrasher&layout=compact&theme=dark)](https://github.com/anonymecrasher)
 
 ## My main project
-###- [PokemonMG](https://github.com/Yanko77/PokemonMG)
-###- [morse_traductor](https://github.com/anonymecrasher/morse_traductor)
-###- [bot_warriors_to_glory](https://github.com/anonymecrasher/bot_warriors_to_glory)
-###- [TelloSky](https://github.com/anonymecrasher/TELLOPYATELIERSCIENTIFIQUE)
+ - [PokemonMG](https://github.com/Yanko77/PokemonMG)
+ - [morse_traductor](https://github.com/anonymecrasher/morse_traductor)
+ - [bot_warriors_to_glory](https://github.com/anonymecrasher/bot_warriors_to_glory)
+ - [TelloSky](https://github.com/anonymecrasher/TELLOPYATELIERSCIENTIFIQUE)
 
 
 
