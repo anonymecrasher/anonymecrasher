@@ -1,9 +1,9 @@
 # Welcome on my GitHub profile! 👋
 ## About me
-- 👋 Hi, I’m @anonymecrasher
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning python at school and a little little bit of C
-- 💞️ I’m looking to collaborate on somme projects
+- #### 👋 Hi, I’m @anonymecrasher
+- #### 👀 I’m interested in game dev
+- #### 🌱 I’m currently learning python at school and a little little bit of C
+- #### 💞️ I’m looking to collaborate on somme projects
 
 ## How to reach me 
 - [<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:matvanrijsel@gmail.com)
